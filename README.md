@@ -1,5 +1,5 @@
-# React-Blog-App-CRUD
+# React-Blog-App
 
-See the app in Action <a href = "https://0zldu.csb.app/">here</a>
+Blog App can be accessed here... <a href = "https://0zldu.csb.app/">here</a>
 
-Sandbox <a href = "https://codesandbox.io/s/blog-app-in-react-with-bootstrap-and-fontawesome-crud-0zldu">link</a> 
+To view in Sandbox... <a href = "https://codesandbox.io/s/blog-app-in-react-with-bootstrap-and-fontawesome-crud-0zldu">link</a> 
